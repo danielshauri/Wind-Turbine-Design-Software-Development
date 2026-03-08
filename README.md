@@ -4,7 +4,7 @@
 **Degree:** Bachelor of Science in Energy and Environmental Technology
 
 ## Research Overview
-This repository contains the formal academic research paper detailing the development of **BladeCraft*, an automated computational framework for horizontal-axis wind turbine (HAWT) design. 
+This repository contains the formal academic research paper detailing the development of *BladeCraft*, an automated computational framework for horizontal-axis wind turbine (HAWT) design. 
 
 The traditional approach to wind turbine design relies heavily on complex manual calculations or prohibitively expensive commercial software (e.g., MATLAB, ANSYS). This project bridges that gap by providing a cost-effective, Python-based desktop application utilizing an MVC (Model-View-Controller) architecture and is compatible with conventional 3D modelling software such as Fusion 360.
 
