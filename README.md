@@ -13,4 +13,4 @@ The traditional approach to wind turbine design relies heavily on complex manual
 * **Sensitivity Analysis:** Mathematical validation of the non-linear relationship between wind speed and rotor dimensions, and the inverse relationship between Tip Speed Ratio (TSR) and solidity.
 * **Software Architecture:** Developed using Python and PyQt5 for the graphical interface, integrated with Matplotlib for dynamic real-time blade profile visualization.
 
-📄 **[Click here to read the full Research Paper PDF](Wind%20Turbine%20Design%20Publication.pdf)**
+📄 **[Click here to read the full Research Paper PDF](Wind%20Turbine%20Design%20Project.pdf)**
