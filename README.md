@@ -14,4 +14,4 @@ The traditional approach to wind turbine design relies heavily on complex manual
 * **Software Architecture:** Developed using Python and PyQt5 for the graphical interface, integrated with Matplotlib for dynamic real-time blade profile visualization.
 
 📄 **[Click here to read the full Research Paper PDF](Wind%20Turbine%20Design%20Project.pdf)**
-📄 **[Click here to access the link to the BladeCraft set-up file]([Wind%20Turbine%20Design%20Project.pdf](https://drive.google.com/file/d/1ZiCsr1oWA67-kQmlCJYTgUIs3TJeBAfg/view?usp=sharing))**
+📄 **[Click here to access the link to the BladeCraft set-up file](https://drive.google.com/file/d/1ZiCsr1oWA67-kQmlCJYTgUIs3TJeBAfg/view?usp=sharing)**
